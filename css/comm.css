@@ -35,6 +35,10 @@
 .frame-bgw{
 	background: #fff;
 }
+/* span button等转为块级元素*/
+.com-block{
+	display: block !important;
+}
 .top-bg{
 	background: #efefef;
 }
